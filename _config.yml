@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://github.com/dlweerawarne/website"
+baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
