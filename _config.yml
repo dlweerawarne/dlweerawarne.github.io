@@ -1,10 +1,10 @@
-title: Researcher
-url: "https://github.com/dlweerawarne/website"
-baseurl: "/index"
+title: My name
+url: ""
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-remote_theme: ankitsultana/researcher@gem
+#remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
