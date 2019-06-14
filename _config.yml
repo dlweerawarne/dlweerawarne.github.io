@@ -3,14 +3,10 @@ url: ""
 baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-#remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
 
 sass:
     style: compressed
