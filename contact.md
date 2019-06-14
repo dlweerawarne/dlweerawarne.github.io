@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [dweeraw1@binghamton.edu](mailto:dweeraw1@binghamton.edu)  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[dlweerawarne@gmail.com](mailto:dlweerawarne@gmail.com) 
+[dlweerawarne@gmail.com](mailto:dlweerawarne@gmail.com) 
 
 ## Social
 
