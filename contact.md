@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [dweeraw1@binghamton.edu](mailto:dweeraw1@binghamton.edu)  
+         [dlweerawarne@gmail.com](mailto:dlweerawarne@gmail.com) 
+* Phone: [6077594069](tel:6077594069)
 
 ---
 
