@@ -1,7 +1,3 @@
---
-layout: default
----
-
 ## About
 
 <img class="profile-picture" src="sherlock.jpg" width="200">
