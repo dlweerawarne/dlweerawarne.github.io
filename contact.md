@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [dweeraw1@binghamton.edu](mailto:dweeraw1@binghamton.edu)  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [dlweerawarne@gmail.com](mailto:dlweerawarne@gmail.com) 
-* Phone: [6077594069](tel:6077594069)
+
 
 ---
 
@@ -25,6 +25,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [GoogleScholar](https://scholar.google.com/citations?user=3NVkz0YAAAAJ&hl=en)
+2. [LinkedIn](https://www.linkedin.com/in/darshana-lakmal-weerawarne-3b460b27)
+3. [ResearchGate](https://www.researchgate.net/profile/Darshana_Weerawarne)
