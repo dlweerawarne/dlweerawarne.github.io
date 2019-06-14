@@ -2,11 +2,11 @@
 layout: default
 is_contact: true
 ---
-<pre>
+
 * Email: [dweeraw1@binghamton.edu](mailto:dweeraw1@binghamton.edu)  
          [dlweerawarne@gmail.com](mailto:dlweerawarne@gmail.com) 
 * Phone: [6077594069](tel:6077594069)
-</pre>
+
 ---
 
 ## Mailing Address
