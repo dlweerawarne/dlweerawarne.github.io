@@ -10,7 +10,7 @@ of Binghamton University
 ## Current Research
 Flexible Electronics; design, fabrication, and reliability testing  
 Applied Optics; developing optics and optial systems to assist research in flexible elctronics  
-Numerical computing; understand undeline physics of various aspects of flexible elctronics  
+Numerical computing; understand underline physics of various aspects of flexible elctronics  
 
 ## Education 
 PhD in Physics, State University of New York (SUNY) at Binghamton, USA, 2017  
