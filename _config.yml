@@ -1,6 +1,6 @@
 title: "Darshana Lakmal Weerawarne"
-url: ""
-baseurl: "/"
+url: "https://dlweerawarne.github.io"
+baseurl: ""
 
 markdown: kramdown
 
@@ -14,7 +14,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "https//dlweerawarne.github.io"  
+   link: ""  
  - name: "Publications"
    link: "publications"
  - name: "Resume"
