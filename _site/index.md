@@ -1,6 +1,6 @@
 ## About
 
-<img class="profile-picture" src="mypicture.jpg" width="200" height ="165">
+<img class="profile-picture" src="mypicture.jpg" width="200">
 
 Darshana Lakmal Weerawarne,  
 a Post-Doctoral Fellow,  
