@@ -9,7 +9,7 @@ of [Binghamton University](https://www.binghamton.edu/)
 
 ## Current Research
 Flexible Electronics; design, fabrication, and reliability testing  
-Applied Optics; develop optics and optical systems to assist research in flexible electronics  
+Applied Optics; develop optical systems for research in flexible electronics  
 Numerical computing  
 
 ## Education 
