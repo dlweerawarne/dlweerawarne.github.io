@@ -1,6 +1,6 @@
 ## About
 
-<img class="profile-picture" src="sherlock.jpg" width="200">
+<img class="profile-picture" src="mypicture.jpg" width="200" height ="165">
 
 Darshana Lakmal Weerawarne,  
 a Post-Doctoral Fellow,  
