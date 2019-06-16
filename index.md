@@ -26,7 +26,7 @@ Adviser - [Prof. Bonggu Shim](https://www.binghamton.edu/physics/research/profil
 Adviser - [Dr. Kasun de Zoysa](https://ucsc.cmb.ac.lk/profile/kasun/)  
 Adviser - [Dr. Chamath Keppitiyagama](https://ucsc.cmb.ac.lk/profile/cik/)  
 
-2008-2010 Undergraduate Research - Lightning Induced Horizontal Electric Field Detection  
+2008-2010 Undergraduate Research - Lightning Induced Electric Field Detection  
 [Atmospheric and Lightning Research Group, University of Colombo, Sri Lanka](https://science.cmb.ac.lk/physics/research/research-groups/atmospheric-and-lightning-research-group/)  
 Adviser - [Prof. Mahendra K Fernando](https://science.cmb.ac.lk/physics/member/dr-i-m-k-fernando/)  
 
