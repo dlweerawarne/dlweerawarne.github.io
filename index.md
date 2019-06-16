@@ -14,7 +14,7 @@ of [Binghamton University](https://www.binghamton.edu/)
 
 ## Research Experience 
 * 2017-2019 Postdoctoral Research - Flexible Electronics  
-  [Center for Advanced Microelectronics Manufacturing (CAMM), Binghamton University, USA](https://www.binghamton.edu/camm/)  
+  [Center for Advanced Microelectronics Manufacturing, Binghamton University, USA](https://www.binghamton.edu/camm/)  
 
 * 2013-2017 Doctoral Research - Nonlinear Propagation of Ultrashort Laser Pulses  
   [Femtosecond Spectroscopy and Smart Energy Laser Lab, Binghamton University, USA](https://sites.google.com/a/binghamton.edu/bshim/home)  
