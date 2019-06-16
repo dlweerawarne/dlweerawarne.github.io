@@ -10,7 +10,7 @@ of [Binghamton University](https://www.binghamton.edu/)
 ## Research Interest
 * Flexible Electronics; design, fabrication, and reliability  
 * Applied Optics; optical systems for research in flexible electronics  
-* Numerical computing  
+* Numerical computing; laser assisted heating  
 
 ## Research Experience 
 * 2017-2019 Postdoctoral Research - Flexible Electronics  
