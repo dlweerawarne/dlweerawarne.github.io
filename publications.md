@@ -92,7 +92,7 @@ DL Weerawarne, X Gao, AL Gaeta, B Shim
 
 0.   “TikiriPower-Using TikiriDB Abstraction on Smart Home systems”  
 L Weerawarne, A Sayakkara, D Fernando, C Suduwella, K De Zoysa  
-International Conference on Advances in ICT for Emerging Regions (ICTer2012) (2012)    
+International Conference on Advances in ICT for Emerging Regions (ICTer) (2012)    
 
 {: reversed="reversed"}
 
