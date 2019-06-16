@@ -8,8 +8,8 @@ at [Center for Advanced Microelectronics Manufacturing (CAMM)](https://www.bingh
 of [Binghamton University](https://www.binghamton.edu/)  
 
 ## Research Interest
-* Flexible Electronics; design, fabrication, and reliability testing  
-* Applied Optics; develop optical systems for research in flexible electronics  
+* Flexible Electronics; design, fabrication, and reliability  
+* Applied Optics; optical systems for research in flexible electronics  
 * Numerical computing  
 
 ## Research Experience 
