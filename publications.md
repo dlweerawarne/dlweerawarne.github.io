@@ -1,9 +1,9 @@
 ## Publications 
-24\.   “Toward Defect-Free Additive Fabricating of Flexible and Hybrid Electronics: Physics-Based Computational Modeling and Control of Aerosol Jet Printing”  
+24\.   [“Toward Defect-Free Additive Fabricating of Flexible and Hybrid Electronics: Physics-Based Computational Modeling and Control of Aerosol Jet Printing”](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_33)  
 RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
 International Conference on Applied Human Factors and Ergonomics, 351-361 (2019)    
 
-23\.   “Image-Based Closed-Loop Control of Aerosol Jet Printing Using Classical Control Methods”  
+23\.   [“Image-Based Closed-Loop Control of Aerosol Jet Printing Using Classical Control Methods”](https://manufacturingscience.asmedigitalcollection.asme.org/article.aspx?articleid=2733088)  
 JP Lombardi, RR Salary, DL Weerawarne, PK Rao, and MD Poliks  
 Journal of Manufacturing Science and Engineering 141 (7), 071011 (2019)    
 
