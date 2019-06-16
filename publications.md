@@ -1,5 +1,5 @@
 ## Publications 
-24\.   [“Toward Defect-Free Additive Fabricating of Flexible and Hybrid Electronics: Physics-Based Computational Modeling and Control of Aerosol Jet Printing”](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_33)  
+24\.   [“Toward Defect-Free Additive Fabricating of Flexible and Hybrid Electronics: Physics-Based Computational Modeling and Control of Aerosol Jet Printing”](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_33){:target="_blank"}  
 RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
 International Conference on Applied Human Factors and Ergonomics, 351-361 (2019)    
 
