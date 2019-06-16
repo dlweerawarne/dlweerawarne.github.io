@@ -42,56 +42,55 @@ State University of New York at Binghamton (2017)
 0. “Multi-filament Inhibition and Resulting Solitary Wave Formation in Condensed Matter”  
 RI Grynko, DL Weerawarne, X Gao, H Liang, HJ Meyer, KH Hong, AL Gaeta, B Shim  
 Frontiers in Optics, FF2C. 1 (2016)    
-
-0. “Inhibition of multi-filamentation of high-power laser beams”  
+0.	“Inhibition of multi-filamentation of high-power laser beams”  
 RI Grynko, DL Weerawarne, X Gao, H Liang, HJ Meyer, KH Hong, AL Gaeta, B Shim  
 Optics letters 41 (17), 4064-4067 (2016)    
 
-0. “Understanding Low-Temperature Sintering and Adhesion Properties of Metal Nanoparticles Printed Sensor Devices”  
+0.	“Understanding Low-Temperature Sintering and Adhesion Properties of Metal Nanoparticles Printed Sensor Devices”  
 J Luo, W Zhao, S Shan, J Lombardi, D Weerawarne, T Rovere, N Kang, Z Skeete, Y Xu, A Vargas, B Shim, B Hsiao, M Poliks, C-J Zhong  
 Abstracts of papers of the American Chemical Society 252 (2016)    
 
-0. “Mid-Infrared Laser Filaments in Air at a Kilohertz Repetition Rate”  
+0.	“Mid-Infrared Laser Filaments in Air at a Kilohertz Repetition Rate”  
 H Liang, DL Weerawarne, P Krogen, RI Grynko, CJ Lai, B Shim, FX Kärtner, K-H Hong  
 Optica 3 (7), 678-681 (2016)    
 
-0. “Mid-IR Laser Filamentation in Air at a kHz Repetition Rate”  
+0.	“Mid-IR Laser Filamentation in Air at a kHz Repetition Rate”  
 H Liang, P Krogen, D Weerawarne, CJ Lai, R Grynko, B Shim, FX Kärtner, K-H Hong  
 Mid-Infrared Coherent Sources, MT2C. 5 (2016)  
 
-0. “Nanoalloy Printed and Pulse-Laser Sintered Flexible Sensor Devices with Enhanced Stability and Materials Compatibility”  
+0.	“Nanoalloy Printed and Pulse-Laser Sintered Flexible Sensor Devices with Enhanced Stability and Materials Compatibility”  
 W Zhao, T Rovere, D Weerawarne, G Osterhoudt, N Kang, P Joseph, J Luo, B Shim, M Poliks, C-J Zhong  
 ACS nano 9 (6), 6168-6177 (2015)    
 
-0. “Significant Enhancement of Third-and Fifth-Harmonic Generation in Air via Two-Color, Time-Resolved Methods”  
+0.	“Significant Enhancement of Third-and Fifth-Harmonic Generation in Air via Two-Color, Time-Resolved Methods”  
 DL Weerawarne, RI Grynko, HJ Meyer, B Shim  
 2015 Conference on Lasers and Electro-Optics (CLEO) (2015)    
 
-0. “Mid-IR Filamentation in Dielectrics: 3-Octave-Spanning Supercontinuum Generation and Sub-2-Cycle Self-Compression”  
+0.	“Mid-IR Filamentation in Dielectrics: 3-Octave-Spanning Supercontinuum Generation and Sub-2-Cycle Self-Compression”  
 H Liang, P Krogen, R Grynko, O Novak, CL Chang, GJ Stein, D Weerawarne, B Shim, FX Kärtner, K-H Hong  
 2015 Conference on Lasers and Electro-Optics (CLEO), 1-2 (2015)    
 
-0. “Three-Octave-Spanning Supercontinuum Generation and Sub-Two-Cycle Self-Compression of Mid-Infrared Filaments in Dielectrics”  
+0.	“Three-Octave-Spanning Supercontinuum Generation and Sub-Two-Cycle Self-Compression of Mid-Infrared Filaments in Dielectrics”  
 H Liang, P Krogen, R Grynko, O Novak, CL Chang, GJ Stein, D Weerawarne, B Shim, FX Kärtner, K-H Hong  
 Optics letters 40 (6), 1069-1072 (2015)    
 
-0. “Higher-Order Nonlinearities Revisited and Their Effect on Harmonic Generation”  
+0.	“Higher-Order Nonlinearities Revisited and Their Effect on Harmonic Generation”  
 DL Weerawarne, X Gao, AL Gaeta, and B Shim  
 Physical review letters 114 (9), 093901 (2015)    
 
-0. “3-Octave Supercontinuum Generation and Sub-2-Cycle Self-Compression of Mid-IR Filaments in Dielectrics”  
+0.	“3-Octave Supercontinuum Generation and Sub-2-Cycle Self-Compression of Mid-IR Filaments in Dielectrics”  
 H Liang, P Krogen, R Grynko, O Novak, CL Chang, GJ Stein, D Weerawarne, B Shim, FX Kärtner, K-H Hong  
 Advanced Solid State Lasers, ATu5A. 4 (2014)    
 
-0. “Strong Optical Nonlinearity of CVD-Grown Monolayer as Probed by Wavelength-Dependent Second-Harmonic Generation”  
+0.	“Strong Optical Nonlinearity of CVD-Grown Monolayer as Probed by Wavelength-Dependent Second-Harmonic Generation”  
 DJ Clark, V Senthilkumar, CT Le, DL Weerawarne, B Shim, JI Jang, JH Shim, J Cho, Y Sim, M-J Seong, SH Rhim, AJ Freeman, K-H Chung, YS Kim  
 Physical Review B 90 (12), 121409 (2014)    
 
-0. “Test of Higher-Order Nonlinearity via Low-Order Harmonic Generation Revisited”  
+0.	“Test of Higher-Order Nonlinearity via Low-Order Harmonic Generation Revisited”  
 DL Weerawarne, X Gao, AL Gaeta, B Shim  
 2014 Conference on Lasers and Electro-Optics (CLEO)-Laser Science to Photonic Applications (2014)    
 
-0. “TikiriPower-Using TikiriDB Abstraction on Smart Home systems”  
+0.	“TikiriPower-Using TikiriDB Abstraction on Smart Home systems”  
 L Weerawarne, A Sayakkara, D Fernando, C Suduwella, K De Zoysa  
 International Conference on Advances in ICT for Emerging Regions (ICTer2012) (2012)    
 
