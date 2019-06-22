@@ -19,5 +19,7 @@ nav:
    link: "publications"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Resources"
+   link: "resources"
  - name: "Contact"
    link: "contact"
