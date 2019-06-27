@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-[dweeraw1@binghamton.edu](mailto:dweeraw1@binghamton.edu)  
+[dweerawa AT binghamton DOT edu](mailto:dweerawa@binghamton.edu)  
 
 ---
 
