@@ -6,6 +6,9 @@ markdown: kramdown
 
 tracking_id: #
 
+plugins_dir:
+  - jekyll-seo-tag
+
 footer: no
 
 sass:
