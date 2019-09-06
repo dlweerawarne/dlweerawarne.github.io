@@ -3,6 +3,7 @@ layout: default
 is_contact: true
 ---
 
+[dweerawa AT phys DOT cmb DOT ac DOC lk](mailto:dweerawa@phys.cmb.ac.lk)  
 [dweerawa AT binghamton DOT edu](mailto:dweerawa@binghamton.edu)  
 
 ---
