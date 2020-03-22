@@ -4,7 +4,8 @@ is_contact: true
 ---
 
 [dweerawa AT phys DOT cmb DOT ac DOT lk](mailto:dweerawa@phys.cmb.ac.lk)  
-[dweerawa AT binghamton DOT edu](mailto:dweerawa@binghamton.edu)  
+[dweeraw1 AT binghamton DOT edu](mailto:dweeraw1@binghamton.edu)  
+[dlweerawarne AT gmail DOT com](mailto:dlweerawarne@gmail.com)
 
 ---
 

@@ -1,4 +1,16 @@
 ## Publications 
+27\. ["A Computational Fluid Dynamics (CFD) Study of Pneumatic Atomization in Aerosol Jet Printing (AJP) Process"](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2019/59377/V02AT02A065/1072897){:target="_blank"}  
+ RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
+Advanced Manufacturing ofASME Interna-tional Mechanical Engineering Congress and Exposition, (2019)   
+
+26\. ["Laser Sintering of Aerosol Jet Printed Interconnects on Flexible Substrate"](https://imapsource.org/doi/abs/10.4071/2380-4505-2019.1.000404){:target="_blank"}  
+M Alhendi, L Cestarollo, GS Khinda, DL Weerawarne, and MD Poliks  
+International Symposium on Microelectronics, 404-408 (2019)   
+
+25\. ["Reliability of screen-printed conductors and resistors during fatigue cycling on flexible substrate"](https://imapsource.org/doi/abs/10.4071/2380-4505-2019.1.000139){:target="_blank"}  
+B Garakani, KUS Somarathna, DL Weerawarne, MD Poliks, and A Alizadeh  
+International Symposium on Microelectronics, 139-146 (2019)   
+
 24\.   [“Toward Defect-Free Additive Fabricating of Flexible and Hybrid Electronics: Physics-Based Computational Modeling and Control of Aerosol Jet Printing”](https://link.springer.com/chapter/10.1007/978-3-030-20216-3_33){:target="_blank"}  
 RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
 International Conference on Applied Human Factors and Ergonomics, 351-361 (2019)    
