@@ -1,5 +1,5 @@
 ## Publications 
-[GoogleScholar](https://scholar.google.com/citations?user=3NVkz0YAAAAJ&hl=en)   
+[GoogleScholar](https://scholar.google.com/citations?user=3NVkz0YAAAAJ&hl=en){:target="_blank"}   
 
 27\. ["A Computational Fluid Dynamics (CFD) Study of Pneumatic Atomization in Aerosol Jet Printing (AJP) Process"](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2019/59377/V02AT02A065/1072897){:target="_blank"}  
  RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
