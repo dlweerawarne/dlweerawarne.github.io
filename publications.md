@@ -1,8 +1,28 @@
 ## Publications 
 [GoogleScholar](https://scholar.google.com/citations?user=3NVkz0YAAAAJ&hl=en){:target="_blank"}   
 
+32\. ["Fabrication of Transparent Antennas on Flexible Glass"](https://scholar.google.com/scholar?cluster=9657557131650993127&hl=en&oi=scholarr){:target="_blank"}  
+JP Lombardi, DL Weerawarne, RE Malay, MD Poliks, JH Schaffner, HJ Song, M-H Huang, SC Pollard, T Talty  
+Flexible, Wearable, and Stretchable Electronics, CRC Press (2020)   
+
+31\. ["A Sparse Representation Classification Approach for Near Real-Time, Physics-Based Functional Monitoring of Aerosol Jet-Fabricated Electronics"](https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/142/8/081007/1083327/A-Sparse-Representation-Classification-Approach?redirectedFrom=fulltext){:target="_blank"}  
+RR Salary, JP Lombardi, DL Weerawarne, MS Tootooni, PK Rao, MD Poliks  
+ASME. J. Manuf. Sci. Eng. August 2020; 142(8): 081007 (2020)   
+
+30\. ["Assessing Current‐Carrying Capacity of Aerosol Jet Printed Conductors"](https://onlinelibrary.wiley.com/doi/abs/10.1002/adem.202000520){:target="_blank"}  
+M Alhendi, RS Sivasubramony, DL Weerawarne, J Iannotti, P Borgesen, MD Poliks  
+Adv. Eng. Mater., 22: 2000520 (2020)   
+
+29\. ["Mechanical Deformation Study of Flexible Leadset Components for Electromechanical Reliability of Wearable Electrocardiogram Sensors"](https://ieeexplore.ieee.org/abstract/document/9159238){:target="_blank"}  
+BG Stewart, G Cahn, D Samet, MJ Misner, A Burns, DL Weerawarne, MD Poliks, C Lapinski, S Dugan, O Pierron, A Antoniou, S Graham, A Alizadeh, SK Sitaraman  
+IEEE 70th Electronic Components and Technology Conference (ECTC) (2020)   
+
+28\. ["A Comparative Study of Aerosol Jet Printing on Polyimide and Liquid Crystal Polymer Substrates for RF Applications"](https://ieeexplore.ieee.org/abstract/document/9159468){:target="_blank"}  
+M Alhendi, A Umar, EM Abbara, R Cadwell, N Huang, DL Weerawarne, P Borgesen, J Iannotti, N Stoffel, MD Poliks  
+IEEE 70th Electronic Components and Technology Conference (ECTC) (2020)   
+
 27\. ["A Computational Fluid Dynamics (CFD) Study of Pneumatic Atomization in Aerosol Jet Printing (AJP) Process"](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2019/59377/V02AT02A065/1072897){:target="_blank"}  
- RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
+RR Salary, JP Lombardi, DL Weerawarne, PK Rao, and MD Poliks  
 Advanced Manufacturing ofASME Interna-tional Mechanical Engineering Congress and Exposition, (2019)   
 
 26\. ["Laser Sintering of Aerosol Jet Printed Interconnects on Flexible Substrate"](https://imapsource.org/doi/abs/10.4071/2380-4505-2019.1.000404){:target="_blank"}  
