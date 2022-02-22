@@ -1,6 +1,4 @@
 title: ""
-description: "Darshana L Weerawarne"
-keywords: "darshana, lakmal, weerawarne, Sri Lanka, Binghamton, colombo, univeristy, uoc, physics, electronics, flexible, SUNY"
 url: "https://dlweerawarne.github.io"
 baseurl: "/"
 
@@ -16,20 +14,6 @@ footer: no
 sass:
     style: compressed
     sass_dir: _sass
-
-# Author settings
-author:
-  name     : "Darshana L Weerawarne"
-  job      : "Senior Lecturer @ University of Colombo"
-  greeting : ""
-  bio      : ""
-  thumb    : #/assets/images/sherlock.jpg
-  email    : #hnrird@gmail.com
-  url      : #http://heiswayi.github.io
-  github   : #http://github.com/heiswayi
-  twitter  : #http://twitter.com/HeiswayiNrird
-  facebook : #https://www.facebook.com/heiswayi.nrird
-  linkedin : https://lk.linkedin.com/in/dlweerawarne
 
 nav:
  - name: "About"

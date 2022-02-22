@@ -2,7 +2,7 @@
 
 <img class="profile-picture" src="Weerawarne.jpg" width="250">
 
-Darshana L. Weerawarne,  
+Darshana L Weerawarne,  
 a [Senior Lecturer](https://www.res.cmb.ac.lk/physics/darshana-lakmal/){:target="_blank"},  
 at [The Department of Physics](https://science.cmb.ac.lk/physics/){:target="_blank"},  
 of [The University of Colombo, Sri Lanka](https://cmb.ac.lk/){:target="_blank"}   
