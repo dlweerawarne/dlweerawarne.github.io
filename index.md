@@ -33,4 +33,13 @@ Other affiliations
 * MS in Physics, [State University of New York (SUNY) at Binghamton](https://www.binghamton.edu/){:target="_blank"}, USA, 2014  
 * BSc in Engineering Physics, [University of Colombo](https://cmb.ac.lk/){:target="_blank"}, Sri Lanka, 2010  
 
+  <div class="container">
+    <small class="block"><!--&lt;/&gt; <a href="http://github.com/heiswayi/thinkspace" title="a minimalist Jekyll theme for technical writing">Thinkspace theme</a> by <a href="http://heiswayi.github.io">Heiswayi Nrird</a>. |--><i class="fa fa-copyright"></i> 2017-{{ site.time | date: '%Y' }} {{ site.author.name }}</small>
+    <a href="mailto:dinal.bing@gmail.com"><i class="fa fa-envelope" style="font-size:21px;color:#F15B3D;"></i></a>
+    <a href="https://www.facebook.com/dinalHerath" target="_blank"><i class="fa fa-facebook-square" style="font-size:22px;color:#F15B3D"></i></a>
+    <a href="https://github.com/dherath" target="blank"><i class="fa fa-github-square" style="font-size:22px;color:#F15B3D"></i></a>
+    <a href="https://www.linkedin.com/in/jerome-dinal-herath-bba3b0148/" target="blank"><i class="fa fa-linkedin-square" style="font-size:22px;color:#F15B3D"></i></a>
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank"><i class="fa fa-rss-square" style="font-size:22px;color:#F15B3D"></i></a>
+    <a href="https://www.researchgate.net/profile/Jerome_Dinal_Herath" target="blank"> <i style="font-size:20px;color:#F15B3D;font-weight:bold;"> RG </i></a>
 
+  </div>
