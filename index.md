@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="Weerawarne.jpg" width="200">
+<img class="profile-picture" src="Weerawarne.jpg" width="250">
 
 Darshana L. Weerawarne,  
 a [Senior Lecturer](https://www.res.cmb.ac.lk/physics/darshana-lakmal/){:target="_blank"},  
