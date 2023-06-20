@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Printing flexible electronics with Office Inkjet Printers   
+## Rapid prototyping flexible electronics with Office Inkjet Printers   
 Rapid prototyping is a critical aspect of product development, enabling quick iteration and evaluation of design concepts. Traditional methods for fabricating IDEs involve complex and expensive processes, such as photolithography and etching. By harnessing the capabilities of office inkjet printers, we aim to provide an alternative approach that is not only affordable but also allows for rapid iteration and customization. In this research, we focus on investigating the printability and performance of different inkjet-printed materials, such as conductive inks, on flexible substrates. We evaluate the compatibility of various inkjet printers with different types of conductive inks, exploring their resolution, conductivity, adhesion, and durability. Our goal is to identify the most suitable inkjet-printed materials and printer configurations for producing high-quality flexible IDEs.
 
 ## Graphene conductive inks for flexible electronics   
